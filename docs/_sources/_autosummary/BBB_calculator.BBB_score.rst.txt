@@ -1,0 +1,6 @@
+BBB\_calculator.BBB\_score
+==========================
+
+.. currentmodule:: BBB_calculator
+
+.. autofunction:: BBB_score
