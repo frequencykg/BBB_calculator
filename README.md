@@ -22,6 +22,8 @@ print(score)
 # Prints: 1.815645...
 ```
 
+For more detailed documentation, see: https://frequencykg.github.io/BBB_calculator/
+
 ## Publish
 
 To publish a new version of this package:
